@@ -1,8 +1,10 @@
-PCB Trays
-=========
+Laser-Cut PCB Tray
+==================
 
-Simple trays that can be used to hold PCBs vertically during the
+Simple tray design that can be used to hold PCBs vertically during the
 production process.
+
+![Trays in use](pcb-trays.jpg))]
 
 The trays used professionally in factories are usually made from
 static-dissipative material that can also withstand immersion in an
@@ -18,3 +20,12 @@ There is also a parameter for board width, but it's broken at the
 moment.
 
 DXFs have also been included, for 3mm MDF and 2mm PCB slots.
+
+For each tray, cut:
+ 1 x base
+ 2 x sides
+ 2 x handles
+
+Glue together as shown in the photo.
+
+More information: https://www.superhouse.tv/vlog-69-easy-laser-cut-pcb-tray/
