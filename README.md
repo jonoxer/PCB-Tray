@@ -4,7 +4,7 @@ Laser-Cut PCB Tray
 Simple tray design that can be used to hold PCBs vertically during the
 production process.
 
-![Trays in use](pcb-trays.jpg))]
+![Trays in use](pcb-trays.jpg)
 
 The trays used professionally in factories are usually made from
 static-dissipative material that can also withstand immersion in an
