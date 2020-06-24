@@ -10,7 +10,7 @@ The trays used professionally in factories are usually made from
 static-dissipative material that can also withstand immersion in an
 ultrasonic bath. These trays aren't intended as a replacement for
 those, but just as a handy way for hobbyists to keep small batches
-of boards organised or the workbench or shelves. This is much better
+of boards organised on the workbench or shelves. This is much better
 than stacking populated PCBs because it saves the parts and boards
 being scratched or damaged.
 
