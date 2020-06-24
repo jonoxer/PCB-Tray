@@ -1,18 +1,19 @@
 Laser-Cut PCB Tray
 ==================
 
-Simple tray design that can be used to hold PCBs vertically during the
-production process.
+Simple tray design that can be used to safely store PCBs vertically
+during the production process.
 
 ![Trays in use](pcb-trays.jpg)
 
-The trays used professionally in factories are usually made from
+The trays used by professional PCB assemblers are usually made from
 static-dissipative material that can also withstand immersion in an
-ultrasonic bath. These trays aren't intended as a replacement for
-those, but just as a handy way for hobbyists to keep small batches
-of boards organised on the workbench or shelves. This is much better
-than stacking populated PCBs because it saves the parts and boards
-being scratched or damaged.
+ultrasonic bath. My design isn't intended as a replacement for those,
+but just as a handy way for hobbyists to keep small batches of boards
+organised on the workbench or shelves.
+
+This is much better than stacking populated PCBs on top of each other
+because it saves the parts and boards being scratched or damaged.
 
 The Fusion360 project includes parameters so that you can tune the
 material thickness and the slot size to suit your own requirements.
