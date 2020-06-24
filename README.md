@@ -22,9 +22,9 @@ moment.
 DXFs have also been included, for 3mm MDF and 2mm PCB slots.
 
 For each tray, cut:
- 1 x base
- 2 x sides
- 2 x handles
+* 1 x base
+* 2 x sides
+* 2 x handles
 
 Glue together as shown in the photo.
 
